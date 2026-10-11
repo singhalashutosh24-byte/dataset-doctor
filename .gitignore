@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+data_marked.csv
+data_clean.csv
